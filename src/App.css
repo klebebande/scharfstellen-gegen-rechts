@@ -1,0 +1,139 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.logo {
+  height: 6em;
+  padding: 1.5em;
+  will-change: filter;
+  transition: filter 300ms;
+}
+.logo:hover {
+  filter: drop-shadow(0 0 2em #646cffaa);
+}
+.logo.react:hover {
+  filter: drop-shadow(0 0 2em #61dafbaa);
+}
+
+@keyframes logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  a:nth-of-type(2) .logo {
+    animation: logo-spin infinite 20s linear;
+  }
+}
+
+.card {
+  padding: 2em;
+}
+
+.read-the-docs {
+  color: #888;
+}
+
+
+
+/* App.css */
+/* General styles to reset margins and padding */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Add space at the top of the website and set base font */
+body {
+  padding-top: 80px; /* Adjusted space for fixed header */
+  background: light; /* Light grey background for the whole page */
+  font-family: 'Arial', sans-serif; /* Default font */
+  min-height: 100vh; /* Full viewport height */
+  display: flex;
+  flex-direction: column; /* Stack children vertically */
+}
+
+.App {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+/* Header styles */
+.App-header {
+  text-align: center;
+  background-color: #57b3ff; /* White background for the header */
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Simple shadow for depth */
+  position: fixed; /* Fix the header */
+  top: 0; /* Align the header to the top */
+  width: 100%; /* Full width */
+  z-index: 1030; /* Above other content */
+}
+
+/* Header main title and subtitle */
+.App-header h1 {
+  font-size: 2.5em; /* Larger font size for main title */
+  color: #333; /* Dark grey color for the text */
+  margin-top: 20px; /* Add space at the top if needed */
+  margin-bottom: 0; /* Remove bottom margin */
+}
+
+.header-subtitle {
+  font-size: 1.2em; /* Size for subtitle */
+  color: #666; /* Lighter grey for the subtitle */
+}
+
+/* Main content area that grows to push footer down */
+.content {
+  flex: 1; /* Allows this element to grow and fill the space */
+  padding-top: 20px; /* Add padding to top to prevent overlap with the fixed header */
+  /* Additional content styles if necessary */
+}
+
+/* Footer styles */
+.App-footer {
+  text-align: center;
+  padding: 20px;
+  background-color: #333; /* Dark footer background */
+  color: #fff; /* White text color */
+}
+
+/* Gallery container centered with padding and margin */
+.gallery-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center; /* Centers the gallery items */
+  gap: 5px; /* Spacing between gallery items */
+  /* padding: 20px; */
+  margin: 20px auto; /* Space above and below the gallery, centered horizontally */
+  max-width: 80%; /* Maximum width of the gallery container */
+}
+
+/* Gallery item styles ensuring responsive behavior */
+.gallery-item {
+  flex: 1 1 calc(33.333% - 10px); /* Three items per row - minus the gap */
+  max-width: calc(33.333% - 10px); /* Maximum width of each gallery item */
+}
+
+/* Gallery image styles to maintain aspect ratio */
+.gallery-item img {
+  width: 100%; /* Full width of the gallery item */
+  object-fit: cover; /* Cover the area, maintain aspect ratio, could crop */
+}
+
+
+/* Responsive settings for smaller devices */
+@media screen and (max-width: 600px) {
+  .gallery-item {
+    flex: 1 1 calc(50% - 10px); /* Two items per row on smaller screens */
+    max-width: calc(50% - 10px); /* Maximum width of each gallery item */
+  }
+}

@@ -1,0 +1,47 @@
+.brand-container {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start; /* Aligns the text to the left */
+  }
+  
+  .brand-title {
+    font-size: 2rem; /* Larger font size for better visibility */
+    margin-bottom: 0; /* Remove margin to tighten up spacing */
+  }
+  
+  .brand-subtitle {
+    font-size: 1rem; /* Adjust subtitle font size for better readability */
+    margin-top: 0.25rem; /* Small top margin to space out title and subtitle */
+  }
+  
+  /* Adjust the navbar padding if necessary */
+  .navbar {
+    position: fixed; /* Fix the navbar at the top */
+    top: 0; /* Align the navbar to the top */
+    left: 0; /* Align the navbar to the left */
+    width: 100%; /* Ensure the navbar extends full width */
+    z-index: 1030; /* The z-index should be higher than the page content */
+    background-color: #57b3ff; /* Assuming you want a white background */
+    /* border-bottom: 1px solid #ececec; Optional: adds a border for definition */
+    padding: 1rem 1rem;
+  }
+  
+  /* You might need media queries to adjust the size for different devices */
+  @media (max-width: 992px) {
+    .brand-title {
+      font-size: 1.5rem; /* Slightly smaller font size for tablet */
+    }
+    .brand-subtitle {
+      font-size: 0.85rem; /* Smaller subtitle font size for tablet */
+    }
+  }
+  
+  @media (max-width: 768px) {
+    .brand-title {
+      font-size: 1.25rem; /* Smaller font size for mobile */
+    }
+    .brand-subtitle {
+      font-size: 0.75rem; /* Smaller subtitle font size for mobile */
+    }
+  }
+  

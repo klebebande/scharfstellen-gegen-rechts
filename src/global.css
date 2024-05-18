@@ -1,0 +1,30 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;700&display=swap");
+@font-face {
+  font-family: "Articulat CF";
+  src: url("/public/Fontspring-DEMO-articulatcf-extrabold-BF64a38d8b06d4e.otf");
+  font-weight: 800;
+}
+@font-face {
+  font-family: "Werbedeutsch";
+  src: url("/public/Werbedeutsch.otf");
+  font-weight: 800;
+}
+
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --font-poppins: Poppins;
+  --font-articulat-cf: "Articulat CF";
+  --font-werbedeutsch: Werbedeutsch;
+
+  /* font sizes */
+  --font-size-xs: 12px;
+  --font-size-base: 16px;
+
+  /* Colors */
+  --color-deepskyblue: #57b3ff;
+  --color-black: #000;
+}

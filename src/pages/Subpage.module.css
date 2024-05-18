@@ -1,0 +1,293 @@
+.mama {
+  margin: 0;
+}
+.mama,
+.nazis1,
+.span {
+  font-weight: 800;
+}
+.span {
+  font-family: var(--font-articulat-cf);
+}
+.nazis {
+  margin: 0;
+  font-family: var(--font-werbedeutsch);
+}
+.mamaSindWirNazisContainer {
+  position: absolute;
+  top: 124px;
+  left: 67px;
+  font-size: 64px;
+  line-height: 64px;
+  text-align: center;
+  font-family: var(--font-articulat-cf);
+}
+.linie1 {
+  position: absolute;
+  top: 83.5px;
+  left: -4.5px;
+  border-top: 2px solid var(--color-black);
+  box-sizing: border-box;
+  width: 398px;
+  height: 4px;
+}
+.immerWiederBehauptet {
+  margin: 0;
+}
+.immerWiederBehauptetContainer,
+.vieleAfdMitgliederNutzenContainer {
+  position: absolute;
+  top: 558px;
+  left: 20px;
+  line-height: 30px;
+  display: inline-block;
+  width: 354px;
+  height: 353px;
+}
+.vieleAfdMitgliederNutzenContainer {
+  top: 1073px;
+  height: 208px;
+}
+.schuldkult {
+  margin: 0;
+  white-space: pre-wrap;
+}
+.remigrationSoBezeichnetDieContainer,
+.schuldkultSoBezeichnetDieContainer {
+  position: absolute;
+  left: 20px;
+  line-height: 30px;
+  display: inline-block;
+  width: 354px;
+}
+.schuldkultSoBezeichnetDieContainer {
+  top: 1303px;
+  height: 268px;
+}
+.remigrationSoBezeichnetDieContainer {
+  bottom: 134px;
+  height: 720px;
+}
+.eineKurzeBildunterschrift {
+  position: absolute;
+  top: 1796px;
+  left: 20px;
+  font-size: var(--font-size-xs);
+  font-weight: 300;
+  display: inline-block;
+  width: 353px;
+  height: 26px;
+}
+.dieAfdNutzt {
+  position: absolute;
+  top: 392px;
+  left: 40px;
+  line-height: 30px;
+  display: inline-block;
+  text-align: center;
+  width: 315px;
+  height: 152px;
+}
+.gruppe10Icon {
+  top: 1517.77px;
+}
+.gruppe10Icon,
+.gruppe11Icon,
+.gruppe16Icon {
+  position: absolute;
+  left: 20px;
+  width: 19.49px;
+  height: 16.24px;
+}
+.gruppe11Icon {
+  top: 2004.77px;
+}
+.gruppe16Icon {
+  bottom: 233.98px;
+}
+.hierWeitereThemen {
+  position: absolute;
+  height: 100%;
+  width: calc(100% - 22.99px);
+  top: 0;
+  left: 0;
+  display: inline-block;
+}
+.gruppe12Icon {
+  position: absolute;
+  top: 3.77px;
+  right: 0;
+  width: 19.49px;
+  height: 16.24px;
+}
+.gruppe14 {
+  position: absolute;
+  width: calc(100% - 25.01px);
+  top: calc(50% - 12px);
+  right: 12.01px;
+  left: 13px;
+  height: 27px;
+}
+.gruppe15 {
+  position: absolute;
+  bottom: 51px;
+  left: 39px;
+  background-color: var(--color-black);
+  width: 315px;
+  height: 44px;
+  color: var(--color-deepskyblue);
+}
+.bild1Icon,
+.bild2Icon {
+  position: absolute;
+  top: 1586px;
+  left: 20px;
+  width: 353px;
+  height: 200px;
+  object-fit: cover;
+}
+.bild1Icon {
+  top: 934px;
+  height: 71px;
+}
+.eineKurzeBildunterschrift1 {
+  position: absolute;
+  top: 1015px;
+  left: 20px;
+  font-size: var(--font-size-xs);
+  font-weight: 300;
+  display: inline-block;
+  width: 353px;
+  height: 26px;
+}
+.pfad5Icon,
+.pfad6Icon {
+  position: absolute;
+  width: 43.9px;
+  height: 30.57px;
+}
+.pfad5Icon {
+  top: 372.36px;
+  left: 16.8px;
+}
+.pfad6Icon {
+  top: 485.36px;
+  right: 20px;
+}
+.pfad7Icon,
+.pfad9Icon {
+  position: absolute;
+  left: 18.5px;
+  width: 17.99px;
+  height: 12.68px;
+}
+.pfad7Icon {
+  bottom: 485.96px;
+}
+.pfad9Icon {
+  top: 1846.5px;
+}
+.pfad11Icon {
+  top: 1299.5px;
+  left: 18.5px;
+}
+.pfad10Icon,
+.pfad11Icon,
+.pfad12Icon,
+.pfad8Icon {
+  position: absolute;
+  width: 17.99px;
+  height: 12.68px;
+}
+.pfad8Icon {
+  bottom: 468.96px;
+  left: 173.5px;
+}
+.pfad10Icon,
+.pfad12Icon {
+  top: 1863.5px;
+  left: 128.5px;
+}
+.pfad12Icon {
+  top: 1316.5px;
+  left: 116.5px;
+}
+.gruppe13Icon {
+  position: absolute;
+  top: 34.94px;
+  right: 20px;
+  width: 28.06px;
+  height: 20px;
+}
+.gruppe18Icon {
+  position: absolute;
+  top: 19.48px;
+  left: 83.96px;
+  width: 225.08px;
+  height: 46.91px;
+}
+
+/*  */
+/* Suppages */
+.SubpageNazis {
+  position: relative;
+  background-color: #6FB1F9;
+  width: 100%;
+  height: 2704px;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-black);
+  font-family: var(--font-poppins);
+}
+.SubpageFilterblase {
+  position: relative;
+  background-color: var(--color-filterblase);
+  width: 100%;
+  height: 2704px;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-black);
+  font-family: var(--font-poppins);
+}
+.SubpageHerzen {
+  position: relative;
+  background-color: var(--color-herzen);
+  width: 100%;
+  height: 2704px;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-black);
+  font-family: var(--font-poppins);
+}
+.SubpageHetze {
+  position: relative;
+  background-color: var(--color-hetze);
+  width: 100%;
+  height: 2704px;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-black);
+  font-family: var(--font-poppins);
+}
+.SubpageKartoffel {
+  position: relative;
+  background-color: var(--color-kartoffel);
+  width: 100%;
+  height: 2704px;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-black);
+  font-family: var(--font-poppins);
+}
+.SubpageTäter {
+  position: relative;
+  background-color: var(--color-täter);
+  width: 100%;
+  height: 2704px;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-black);
+  font-family: var(--font-poppins);
+}
+
+
