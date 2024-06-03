@@ -39,6 +39,7 @@ ReactDOM.createRoot(document.getElementById('root')).render(
         <Route path="/kartoffel" element={<div><h1>Kartoffel Page</h1><p>Welcome to the Kartoffel page.</p></div>} />
         <Route path="/filterblase" element={<div><h1>Filterblase Page</h1><p>Welcome to the Filterblase page.</p></div>} />
         <Route path="/taeter" element={<div><h1>Taeter Page</h1><p>Welcome to the Taeter page.</p></div>} />
+        <Route path="*" element={<div><h1>Page Not Found</h1></div>} />
       </Routes>
     </Router>
   </React.StrictMode>
