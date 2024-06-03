@@ -34,11 +34,11 @@ ReactDOM.createRoot(document.getElementById('root')).render(
       <Routes>
         <Route path="/" element={<App />} />
         <Route path="/nazis" element={<div><h1>Nazis Page</h1><p>Welcome to the Nazis page.</p></div>} />
-        <Route path="/herz" element={<div><h1>Herz Page</h1><p>Welcome to the Herz page.</p></div>} />
+        <Route path="/herzen" element={<div><h1>Herz Page</h1><p>Welcome to the Herz page.</p></div>} />
         <Route path="/hetze" element={<div><h1>Hetze Page</h1><p>Welcome to the Hetze page.</p></div>} />
         <Route path="/kartoffel" element={<div><h1>Kartoffel Page</h1><p>Welcome to the Kartoffel page.</p></div>} />
         <Route path="/filterblase" element={<div><h1>Filterblase Page</h1><p>Welcome to the Filterblase page.</p></div>} />
-        <Route path="/taeter" element={<div><h1>Täter Page</h1><p>Welcome to the Täter page.</p></div>} />
+        <Route path="/taeter" element={<div><h1>Taeter Page</h1><p>Welcome to the Taeter page.</p></div>} />
       </Routes>
     </Router>
   </React.StrictMode>

@@ -1,6 +1,6 @@
 import styles from "./Subpage.module.css";
 
-const SubpageTäter = () => {
+const SubpageTaeter = () => {
   return (
     <div className={styles.subpageNazis}>
       <div className={styles.mamaSindWirNazisContainer}>
@@ -106,4 +106,4 @@ const SubpageTäter = () => {
 };
 
 
-export default SubpageTäter;
+export default SubpageTaeter;

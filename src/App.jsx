@@ -50,7 +50,7 @@ function App() {
       width: 320,
       height: 212,
       textFilePath: "sticker_text/sticker1.txt",
-      mehrLink: "/täter",
+      mehrLink: "/taeter",
     },
     // ...add more images
   ];
