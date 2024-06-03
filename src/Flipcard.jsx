@@ -1,5 +1,6 @@
 // src/FlipCard.jsx
 import React, { useState } from "react";
+import { Link } from "react-router-dom";
 
 import "./Flipcard.css"; // Make sure this file exists
 
@@ -19,14 +20,14 @@ const FlipCard = ({ image, mehrLink }) => {
     >
       <div className="flip-card-inner">
         <div className="flip-card-front">
-          <a href={image.mehrLink}>
+          <Link to={image.mehrLink}>
             <img
               src={image.src}
               alt={image.alt || "Image"}
               width={image.width}
               height={image.height}
             />
-          </a>
+          </Link>
         </div>
         <div className="flip-card-back">
           <p>{image.text}</p>

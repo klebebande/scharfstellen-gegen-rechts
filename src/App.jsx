@@ -1,6 +1,7 @@
 import React from 'react';
 import { BrowserRouter as Router, Route, Routes, Link } from 'react-router-dom';
 import Homepage from './Homepage';
+import NotFound from './NotFound';
 
 import SubpageNazis from './pages/Nazis';
 import SubpageHetze from './pages/Hetze';
@@ -13,7 +14,7 @@ import SubpageHerzen from './pages/Herzen';
 function App() {
   return (
     <Router>
-      {/* <nav>
+      <nav>
         <ul>
           <li><Link to="/">Home</Link></li>
           <li><Link to="/nazis">Subpage 1</Link></li>
@@ -23,7 +24,7 @@ function App() {
           <li><Link to="/filterblase">Subpage 5</Link></li>
           <li><Link to="/taeter">Subpage 6</Link></li>
         </ul>
-      </nav> */}
+      </nav>
       <Routes>
         <Route path="/" element={<Homepage />} />
         <Route path="/nazis" element={<SubpageNazis />} />
@@ -32,6 +33,7 @@ function App() {
         <Route path="/herzen" element={<SubpageHerzen />} />
         <Route path="/kartoffel" element={<SubpageKartoffel />} />
         <Route path="/filterblase" element={<SubpageFilterblase />} />
+        <Route path="*" element={<NotFound />} />
       </Routes>
     </Router>
   );
