@@ -13,7 +13,7 @@ import SubpageHerzen from './pages/Herzen';
 function App() {
   return (
     <Router>
-      <nav>
+      {/* <nav>
         <ul>
           <li><Link to="/">Home</Link></li>
           <li><Link to="/nazis">Subpage 1</Link></li>
@@ -23,7 +23,7 @@ function App() {
           <li><Link to="/filterblase">Subpage 5</Link></li>
           <li><Link to="/taeter">Subpage 6</Link></li>
         </ul>
-      </nav>
+      </nav> */}
       <Routes>
         <Route path="/" element={<Homepage />} />
         <Route path="/nazis" element={<SubpageNazis />} />
