@@ -1,69 +1,41 @@
-import { useState } from "react";
-import "./App.css";
-import FlipCard from "./Flipcard"; // Import the new component
+import React from 'react';
+import { BrowserRouter as Router, Route, Routes, Link } from 'react-router-dom';
+import Homepage from './Homepage';
+
+import SubpageNazis from './pages/Nazis';
+import SubpageHetze from './pages/Hetze';
+import SubpageKartoffel from './pages/Kartoffel';
+import SubpageFilterblase from './pages/Filterblase';
+import SubpageTaeter from './pages/Taeter';
+import SubpageHerzen from './pages/Herzen';
+
 
 function App() {
-
-  const images = [
-    {
-      src: "/images/Sticker/Nazis.png",
-      width: 320,
-      height: 212,
-      text: "Die AfD nutzt Worte von Nationalsozialisten und Neonazis, aber willpartout nicht rechtsextrem sein.",
-      mehrLink: "/nazis",
-    },
-    {
-      src: "/images/Sticker/Kartoffel.png",
-      width: 320,
-      height: 212,
-      tags: [
-        { value: "Ocean", title: "Ocean" },
-        { value: "People", title: "People" },
-      ],
-      alt: "Boats (Jeshu John - designerspics.com)",
-      textFilePath: "sticker_text/sticker1.txt",
-      mehrLink: "/kartoffel",
-    },
-    {
-      src: "/images/Sticker/Filterblase.png",
-      width: 320,
-      height: 212,
-      textFilePath: "sticker_text/sticker1.txt",
-      mehrLink: "/filterblase",
-    },
-    {
-      src: "/images/Sticker/Herzen.png",
-      width: 320,
-      height: 212,
-      textFilePath: "sticker_text/sticker1.txt",
-      mehrLink: "/herzen",
-    },
-    {
-      src: "/images/Sticker/Hetze.png",
-      width: 320,
-      height: 212,
-      textFilePath: "sticker_text/sticker1.txt",
-      mehrLink: "/hetze",
-    },
-    {
-      src: "/images/Sticker/Täter.png",
-      width: 320,
-      height: 212,
-      textFilePath: "sticker_text/sticker1.txt",
-      mehrLink: "/taeter",
-    },
-    // ...add more images
-  ];
-
   return (
-    <>
-      <div className="gallery-container">
-        {images.map((img, index) => (
-          <FlipCard key={index} image={img} mehrLink={img.mehrLink} />
-        ))}
-      </div>
-    </>
+    <Router>
+      <nav>
+        <ul>
+          <li><Link to="/">Home</Link></li>
+          <li><Link to="/nazis">Subpage 1</Link></li>
+          <li><Link to="/herzen">Subpage 2</Link></li>
+          <li><Link to="/hetze">Subpage 3</Link></li>
+          <li><Link to="/kartoffel">Subpage 4</Link></li>
+          <li><Link to="/filterblase">Subpage 5</Link></li>
+          <li><Link to="/taeter">Subpage 6</Link></li>
+        </ul>
+      </nav>
+      <Routes>
+        <Route path="/" element={<Homepage />} />
+        <Route path="/nazis" element={<SubpageNazis />} />
+        <Route path="/taeter" element={<SubpageTaeter />} />
+        <Route path="/hetze" element={<SubpageHetze />} />
+        <Route path="/herzen" element={<SubpageHerzen />} />
+        <Route path="/kartoffel" element={<SubpageKartoffel />} />
+        <Route path="/filterblase" element={<SubpageFilterblase />} />
+      </Routes>
+    </Router>
   );
 }
 
 export default App;
+
