@@ -2,7 +2,7 @@
 
 // src/components/app/App.jsx
 import React from "react";
-import { BrowserRouter as Router, Routes, Route, useNavigate } from 'react-router-dom';
+import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 
 import Home from "../home/Home"
 
@@ -19,35 +19,20 @@ const App = () => {
   return (
     <div className="App container-fluid p-0">
       <Router>
-        <RedirectHandler />
         <Routes>
-          <Route path="/" element={<Home />} />
+          <Route path="/" element={<Home />}  />
           <Route path="/nazis" element={<SubpageNazis />} />
           <Route path="/hetze" element={<SubpageHetze />} />
           <Route path="/kartoffel" element={<SubpageKartoffel />} />
           <Route path="/filterblase" element={<SubpageFilterblase />} />
           <Route path="/taeter" element={<SubpageTaeter />} />
           <Route path="/herzen" element={<SubpageHerzen />} />
-          {/* <Route path="*" element={<NotFound />} /> */}
+          <Route path="*" element={<NotFound />} />
         </Routes>
       </Router>
     </div>
   );
 };
-
-const RedirectHandler = () => {
-  const navigate = useNavigate();
-  useEffect(() => {
-    const params = new URLSearchParams(window.location.search);
-    const redirectPath = params.get('redirect');
-    if (redirectPath) {
-      navigate(redirectPath, { replace: true });
-    }
-  }, [navigate]);
-
-  return null;
-};
-
 
 export default App;
 
@@ -75,11 +60,11 @@ export default App;
 //         <Routes>
 //           <Route path="/" element={<Home />} />
 //           <Route path="/nazis" element={<SubpageNazis />} />
-// <Route path="/hetze" element={<SubpageHetze />} />
-// <Route path="/kartoffel" element={<SubpageKartoffel />} />
-// <Route path="/filterblase" element={<SubpageFilterblase />} />
-// <Route path="/taeter" element={<SubpageTaeter />} />
-// <Route path="/herzen" element={<SubpageHerzen />} />
+          // <Route path="/hetze" element={<SubpageHetze />} />
+          // <Route path="/kartoffel" element={<SubpageKartoffel />} />
+          // <Route path="/filterblase" element={<SubpageFilterblase />} />
+          // <Route path="/taeter" element={<SubpageTaeter />} />
+          // <Route path="/herzen" element={<SubpageHerzen />} />
 //           <Route path="*" element={<NotFound />} />
 //         </Routes>
 //         <Footer />
