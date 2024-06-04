@@ -1,0 +1,19 @@
+.Footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
+  font-size: 14px;
+  background: #D3959B;
+  background: -webkit-linear-gradient(to bottom, #BFE6BA, #D3959B);
+  background: linear-gradient(to bottom, #BFE6BA, #D3959B); 
+
+  a {
+    color: darkviolet;
+
+    &:hover {
+      color: white;
+    }
+  }
+}

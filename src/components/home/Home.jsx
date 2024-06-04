@@ -1,7 +1,7 @@
-import "./App.css";
+import "./Home.css";
 import FlipCard from "./Flipcard"; // Import the new component
 
-function Homepage() {
+function Home() {
 
   const images = [
     {
@@ -65,4 +65,4 @@ function Homepage() {
   );
 }
 
-export default Homepage;
+export default Home;
