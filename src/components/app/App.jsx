@@ -27,7 +27,7 @@ const App = () => {
           <Route path="/filterblase" element={<SubpageFilterblase />} />
           <Route path="/taeter" element={<SubpageTaeter />} />
           <Route path="/herzen" element={<SubpageHerzen />} />
-          <Route path="*" element={<NotFound />} />
+          {/* <Route path="*" element={<NotFound />} /> */}
         </Routes>
       </Router>
     </div>
