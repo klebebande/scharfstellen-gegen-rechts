@@ -1,0 +1,55 @@
+// src/components/sticker/styles.scss
+
+@import './colors';
+
+// Apply background color to the whole page
+body, html {
+  background-color: rgba(245, 245, 245, 1);
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  overflow: hidden; // Prevent scrolling if not necessary
+}
+
+// Ensure the root element takes the full height
+#root {
+  height: 100%;
+}
+
+// Base styles for the subpage
+.subpage-container {
+  min-height: calc(100vh - 40px); // 40px to account for 20px padding on top and bottom
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
+  padding-top: 100px;
+  box-sizing: border-box;
+  font-family: Arial, sans-serif;
+}
+
+
+.page-background-taeter {
+  background-color: $background-color-taeter;
+}
+
+.page-background-nazis {
+  background-color: $background-color-nazis;
+}
+
+.page-background-kartoffel {
+  background-color: $background-color-kartoffel;
+}
+
+.page-background-hetze {
+  background-color: $background-color-hetze;
+}
+
+.page-background-herzen {
+  background-color: $background-color-herzen;
+}
+
+.page-background-filterblase {
+  background-color: $background-color-filterblase;
+}

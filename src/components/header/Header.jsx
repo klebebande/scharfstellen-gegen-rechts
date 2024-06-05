@@ -8,7 +8,7 @@ const Header = () => {
   return (
     <Navbar expand="lg" className="justify-content-between">
       <Container>
-        <Navbar.Brand href="/home" className="brand-container">
+        <Navbar.Brand href="/" className="brand-container">
           <div>
             <img
               src={ '/images/Header.svg'}
@@ -23,7 +23,7 @@ const Header = () => {
         </Navbar.Toggle>
         <Navbar.Collapse id="basic-navbar-nav">
           <Nav className="me-auto">
-            <Nav.Link as={Link} to="/home">Home</Nav.Link>
+            <Nav.Link as={Link} to="/">Home</Nav.Link>
             <Nav.Link as={Link} to="/about">About</Nav.Link>
             {/* Add more Nav.Link items here */}
           </Nav>
