@@ -1,12 +1,11 @@
 .markdown-container {
   padding: 20px;
-  max-height: calc(100vh - 40px); /* Adjust max-height to leave some space for other elements */
+  max-height: 85vh;
   width: 80vw; /* Set a more appropriate width */
   overflow-y: auto; /* Allows scrolling if content exceeds max-height */
-  margin: 20px auto; /* Center the container horizontally with some top margin */
+  margin: 0 auto 0 auto; 
   background-color: white;
-  border-radius: 8px;
-  /* box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); */
+  border-radius: 0px;
 }
 
 .markdown-container h1 {
@@ -46,7 +45,7 @@
 
 .modal {
   position: absolute;
-  top: 50%;
+  top: 90%;
   left: 50%;
   right: auto;
   bottom: auto;

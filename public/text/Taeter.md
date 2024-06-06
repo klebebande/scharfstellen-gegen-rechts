@@ -7,7 +7,12 @@ color: #Ff4700
 ![alt text](images/Headlines/Headline_Taeter.png)
 
 „Wir“ sind die Guten, die Gerechten, die immer schon hier waren und sich deshalb gegen „die anderen“ verteidigen müssen. Die „anderen“ sind: die Migranten, die Medien, die Feministinnen, die Regierung, letztendlich das gesamte demokratische System. 
+
+![alt text](../images/assets/opfer1.png)
+
 In den Geschichten der AfD geht es eigentlich gar nicht so sehr darum, wer genau der Feind ist. Wichtiger ist, dass sich ihre Anhänger_innen zusammen stark fühlen. Das funktioniert, indem sie sie direkt ansprechen („wir“, „unser“, „uns“) – und sich klar von den „anderen“ abgrenzen („die da drüben“, „die da oben“). 
+![alt text](../images/assets/opfer2.png)
+
 Mit dieser Abschottung geht der Versuch einher, die Rolle von „Opfern“ und „Tätern“ einfach umzudrehen. Oft äußert die AfD empört, was die „anderen“ zu den Bösen der Geschichte macht. Eigene Fehler gibt sie nur selten zu. Hier ein paar Beispiele:
 
 - **Im Juni 2019 sagte der AfD-Politiker Martin Hohmann, die CDU würde den Mord an Walter Lübcke gegen die AfD verwenden.** Er sagte, wenn es keine offenen Landesgrenzen gegeben hätte, würde Lübcke noch leben. Dabei sprach er nicht klar aus, dass der Mord eine rechtsextremistische Terrortat war.

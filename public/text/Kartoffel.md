@@ -6,7 +6,12 @@ color: #ffd400
 ![alt text](images/Headlines/Headline_Kartoffel.png)
 
 Wie keine andere Partei im Bundestag polarisiert die AfD mit Sprache. Eine der wichtigsten Kommunikationsweisen hierbei ist die kalkulierte Provokation, ein Mittel, um mit hoher Wahrscheinlichkeit heftige öffentliche Reaktionen und Emotionen auszulösen. Um dieses Ziel zu erreichen, verwenden AfD-Politiker_innen plakative Wortneuschöpfungen. Oft sind sie nach einem ganz einfachen Prinzip aufgebaut: Man nehme zwei Wörter aus unterschiedlichen Kontexten und füge sie zu einem neuen Wort zusammen. Nach dem Prinzip: Kartoffel + Schmarrn = Kartoffelschmarrn. 
-So harmlos diese Taktik klingt, so gefährlich sind ihre Auswirkungen für die Gesellschaft. Denn wer genauer hinschaut, der versteht, dass mit den Begriffen, die die AfD verwendet, ganze Menschengruppen angegriffen und abgewertet werden sollen. Je öfter man diese Wörter hört oder liest, desto größer ist die Wahrscheinlichkeit, dass man sie irgendwann selbst schreibt oder ausspricht. Seid vorsichtig und macht eure Mitmenschen auf folgende Bedeutungen aufmerksam:
+
+![alt text](../images/assets/kartoffelschmarrn1.png)
+So harmlos diese Taktik klingt, so gefährlich sind ihre Auswirkungen für die Gesellschaft. Denn wer genauer hinschaut, der versteht, dass mit den Begriffen, die die AfD verwendet, ganze Menschengruppen angegriffen und abgewertet werden sollen. Je öfter man diese Wörter hört oder liest, desto größer ist die Wahrscheinlichkeit, dass man sie irgendwann selbst schreibt oder ausspricht. 
+![alt text](../images/assets/kartoffelschmarrn2.png)
+
+Seid vorsichtig und macht eure Mitmenschen auf folgende Bedeutungen aufmerksam:
 
 - **Klimawahn**: Mit diesem Wort wird allen, die sich in irgendeiner Weise für Klimaschutz engagieren, unterstellt, dass sie übertreiben und „wahnsinnig“, also krank, sind. Klimaschützer_innen soll damit ihre Glaubwürdigkeit genommen werden.
 - **Ökodiktatur**: Dieses Wort dient der Abwertung einer ökologisch orientierten Politik, wie sie etwa die Grünen verfolgen. Es wird auf eine Herrschaftsform angespielt, die Maßnahmen zugunsten des Klimaschutzes auch mit freiheitseinschränkenden Mitteln durchsetzen will. Sie hat noch nie existiert und wird von keiner Partei angestrebt.
