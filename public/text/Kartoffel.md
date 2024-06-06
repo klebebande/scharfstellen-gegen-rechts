@@ -1,6 +1,7 @@
 ---
 title: Aus der Bahn, Kartoffelschmarrn! (Was soll das denn heißen?)
 teaser: Die AfD erfindet gerne Worte, um Angst zu schüren und andere Menschen anzugreifen. Einige Beispiele und ihre Bedeutungen.
+color: #F6D547
 ---
 
 Wie keine andere Partei im Bundestag polarisiert die AfD mit Sprache. Eine der wichtigsten Kommunikationsweisen hierbei ist die kalkulierte Provokation, ein Mittel, um mit hoher Wahrscheinlichkeit heftige öffentliche Reaktionen und Emotionen auszulösen. Um dieses Ziel zu erreichen, verwenden AfD-Politiker_innen plakative Wortneuschöpfungen. Oft sind sie nach einem ganz einfachen Prinzip aufgebaut: Man nehme zwei Wörter aus unterschiedlichen Kontexten und füge sie zu einem neuen Wort zusammen. Nach dem Prinzip: Kartoffel + Schmarrn = Kartoffelschmarrn. 

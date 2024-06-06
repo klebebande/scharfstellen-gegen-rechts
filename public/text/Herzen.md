@@ -1,6 +1,7 @@
 ---
 title: Blaue Herzen trügen nicht. (Was soll das denn heißen?)
 teaser: Die AfD verwendet häufig Hashtags, Emojis und Codes, die klar der rechtsextremen Szene zugeordnet werden können. Welche das sind.
+color: #387DF6
 ---
 
 Konservativ, populistisch und rechtsextrem bedeuten nicht dasselbe, das will auch die AfD immer wieder betonen. Doch wer ihren Social-Media-Account mit denen anderer rechtsextremer Akteure und Parteien vergleicht, erkennt schnell, wie sehr sich die behandelten Themen und Erkennungszeichen ähneln. Besonders auffällig ist das blaue Herz, das Menschen nutzen, um sich mit der AfD solidarisch zu zeigen. Doch nicht nur sie, auch Mitglieder der Identitären Bewegung und vieler Burschenschaften verwenden das Emoji.

@@ -1,6 +1,7 @@
 ---
 title: Ihr Opfer. Wer Täter? (Find’s heraus!)
 teaser: Die AfD hat viele Feinde und einen starken Zusammenhalt innerhalb ihrer Community. Wie sie das schafft, liest du hier.
+color: #EB5729
 ---
 
 „Wir“ sind die Guten, die Gerechten, die immer schon hier waren und sich deshalb gegen „die anderen“ verteidigen müssen. Die „anderen“ sind: die Migranten, die Medien, die Feministinnen, die Regierung, letztendlich das gesamte demokratische System. 

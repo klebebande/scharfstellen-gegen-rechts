@@ -1,6 +1,7 @@
 ---
 title: Angsthase, Pfeffernase. Raus aus deiner Filterblase! (Was soll das denn heißen?)
 teaser: Die AfD verbreitet in sogenannten Filterblasen ihre Meinung. Was das bedeutet, liest du hier.
+color: #5CA747
 ---
 
 Das Verhältnis der AfD zum Journalismus ist kompliziert. Einerseits nennt die Partei unabhängige Medien oft „Systempresse“ oder „Lügenpresse“. Zum anderen dienen diese als Bühne für ihre radikalen Ansichten und Provokationen. Gleichzeitig hat die AfD ein breites Netzwerk aus Social-Media-Kanälen aufgebaut, um ihre Botschaften veröffentlichen zu können, ohne dass jemand anderes sie kontrolliert. 

@@ -1,6 +1,7 @@
 .markdown-container {
   padding: 20px;
   max-height: 80vh;
+  max-width: 100vh;
   overflow-y: auto; /* Allows scrolling if content exceeds max-height */
   margin: 20px auto;
   background-color: white;

@@ -21,9 +21,11 @@
     left: 0; /* Align the navbar to the left */
     width: 100%; /* Ensure the navbar extends full width */
     z-index: 1030; /* The z-index should be higher than the page content */
-    background-color: #57b3ff; /* Assuming you want a white background */
+    background-color: white; /* Assuming you want a white background */
     /* border-bottom: 1px solid #ececec; Optional: adds a border for definition */
     padding: 1rem 1rem;
+    border-bottom: 3px solid black; /* Add a black border below the header */
+
   }
   
   /* You might need media queries to adjust the size for different devices */

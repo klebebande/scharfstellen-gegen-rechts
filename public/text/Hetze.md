@@ -1,6 +1,7 @@
 ---
 title: Hasst du noch oder hetzt du schon? (Find’s heraus!)
 teaser: Die AfD verbreitet gezielt Hass und Hetze im Netz. Was man gegen Hassrede tun kann.
+color: #ED6FD6
 ---
 
 In den letzten Jahren haben aggressive und beleidigende Äußerungen gegen bestimmte Gruppen von Menschen stark zugenommen. Besonders in den sozialen Medien sind rechte Sprache und Bilder sehr verbreitet. 

@@ -4,11 +4,12 @@
 
 // Apply background color to the whole page
 body, html {
-  background-color: rgba(245, 245, 245, 1);
+  background-color: white;
   height: 100%;
   margin: 0;
   padding: 0;
-  overflow: hidden; // Prevent scrolling if not necessary
+  overflow-y: auto;
+  // overflow: hidden; // Prevent scrolling if not necessary
 }
 
 // Ensure the root element takes the full height

@@ -1,4 +1,3 @@
-
 .flip-card {
     perspective: 1000px;
     width: 210px; /* Full width on all screens */
@@ -29,6 +28,7 @@
     width: 100%;
     height: 100%;
     backface-visibility: hidden;
+    border-radius: 10px; /* Optional: for rounded corners */
     overflow: hidden; /* Prevents content from spilling out */
 }
 
@@ -41,18 +41,18 @@
 .flip-card-front img {
     width: 100%;
     height: 100%;
-    height: auto;
     object-fit: cover;
 }
 
 .flip-card-back {
     transform: rotateY(180deg);
-    background-color: #fff;
-    color: #000;
+    background-color: #fff; /* Change this to your desired background color */
+    color: #000; /* Change this to your desired text color */
     display: flex;
     align-items: center;
     justify-content: center;
     padding: 5px;
+    flex-direction: column;
 }
 
 @media screen and (min-width: 769px) {
@@ -89,34 +89,3 @@
         /* padding-top: 0; Remove padding-top since we're controlling height with max-height */
     }
 }
-
-
-.mehr-button {
-    background-color: black; /* Blue background */
-    border: none; /* No border */
-    color: white; /* White text */
-    padding: 10px 20px; /* Some padding */
-    text-align: center; /* Centered text */
-    text-decoration: none; /* Remove underline */
-    display: inline-block; /* Get it to fit within inline flow */
-    font-size: 16px; /* Font size */
-    margin: 4px 2px; /* Some margin */
-    cursor: pointer; /* Pointer/hand icon */
-    border-radius: 4px; /* Rounded corners */
-    transition-duration: 0.4s; /* Animation duration */
-  }
-  
-  .mehr-button:hover {
-    background-color: #0056b3; /* Darker blue on hover */
-    color: white;
-  }
-  
-  .mehr-button a {
-    color: white; /* Ensure link text is white */
-    text-decoration: none; /* Remove underline from link */
-  }
-  
-  .mehr-button a:hover {
-    color: white; /* Ensure link text stays white on hover */
-  }
-  

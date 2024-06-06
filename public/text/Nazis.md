@@ -1,6 +1,7 @@
 ---
 title: Mama, sind wir Nazis? (Find’s heraus!)
 teaser: Die AfD nutzt Worte von Nationalsozialisten und Neonazis, aber will partout nicht rechtsextrem sein. Mehr lesen.
+color: #6FB1F9
 ---
 
 Immer wieder behauptet die AfD, dass sie mit Rechtsextremen und Neonazis nichts zu tun habe. Vor Gericht versucht sie sogar zu erreichen, dass niemand sagen darf, sie sei eine rechtsextreme Partei – und nennt solche Vorwürfe „Einzelfälle“. Und Björn Höcke? Der meint, ihm passieren nur hin und wieder „Ausrutscher“. Fakt ist jedoch: Seine Worte haben System und sind Ausdruck eines geschlossenen rechtsextremen, menschenfeindlichen Weltbildes. 

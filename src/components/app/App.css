@@ -7,7 +7,7 @@
   
   /* Add space at the top of the website and set base font */
   body {
-    background: lightgrey; /* Light grey background for the whole page */
+    background: white; /* Light grey background for the whole page */
     font-family: 'Arial', sans-serif; /* Default font */
     min-height: 100vh; /* Full viewport height */
     display: flex;
