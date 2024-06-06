@@ -107,16 +107,15 @@
   }
   
   .mehr-button:hover {
-    background-color: #0056b3; /* Darker blue on hover */
-    color: white;
+    background-color: white; /* Background color on hover */
+    color: black; /* Text color on hover */
   }
   
   .mehr-button a {
-    color: white; /* Ensure link text is white */
+    color: inherit; /* Ensure link text inherits color from button */
     text-decoration: none; /* Remove underline from link */
   }
   
   .mehr-button a:hover {
-    color: white; /* Ensure link text stays white on hover */
+    color: inherit; /* Ensure link text color changes with button on hover */
   }
-  

@@ -23,9 +23,7 @@ const Header = () => {
         </Navbar.Toggle>
         <Navbar.Collapse id="basic-navbar-nav">
           <Nav className="me-auto">
-            <Nav.Link as={Link} to="/">Home</Nav.Link>
-            <Nav.Link as={Link} to="/about">About</Nav.Link>
-            {/* Add more Nav.Link items here */}
+            <Nav.Link as={Link} to="/about">Info</Nav.Link>
           </Nav>
         </Navbar.Collapse>
       </Container>

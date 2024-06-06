@@ -1,12 +1,12 @@
 .markdown-container {
   padding: 20px;
-  max-height: 80vh;
-  max-width: 100vh;
+  max-height: calc(100vh - 40px); /* Adjust max-height to leave some space for other elements */
+  width: 80vw; /* Set a more appropriate width */
   overflow-y: auto; /* Allows scrolling if content exceeds max-height */
-  margin: 20px auto;
+  margin: 20px auto; /* Center the container horizontally with some top margin */
   background-color: white;
   border-radius: 8px;
-  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  /* box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); */
 }
 
 .markdown-container h1 {
@@ -23,4 +23,63 @@
 .markdown-container pre {
   white-space: pre-wrap; /* Allows text to wrap */
   word-wrap: break-word; /* Allows long words to be broken and wrap */
+}
+
+.markdown-container img {
+  max-width: 80%; /* Limit image width to 80% of the container */
+  height: auto; /* Maintain aspect ratio */
+  display: block; /* Ensure the image is treated as a block element */
+  margin: 0 auto; /* Center the image horizontally */
+}
+
+.button-container {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+.button-container button {
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.modal {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  right: auto;
+  bottom: auto;
+  transform: translate(-50%, -50%);
+  background-color: white;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  width: 50%;
+  max-width: 500px;
+  max-height: 80%;
+  overflow-y: auto;
+}
+
+.modal-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: rgba(0, 0, 0, 0.75);
+}
+
+.modal-content {
+  position: relative;
+}
+
+.close-button {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  background: transparent;
+  border: none;
+  font-size: 18px;
+  cursor: pointer;
 }

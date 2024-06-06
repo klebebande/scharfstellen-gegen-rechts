@@ -18,9 +18,9 @@ const FlipCard = ({ image, style }) => {
         <div className="flip-card-back" style={{ backgroundColor: image.color }}>
           <div className="flip-card-content">
             <p>{image.teaser}</p>
-            <button className="mehr-button">
-              <Link to={image.mehrLink}>Find's heraus!</Link>
-            </button>
+            <Link to={image.mehrLink} className="mehr-button">
+              Find's heraus!
+            </Link>
           </div>
         </div>
       </div>

@@ -10,7 +10,7 @@ function Home() {
       height: 212,
       teaser: "Die AfD nutzt Worte von Nationalsozialisten und Neonazis, aber will partout nicht rechtsextrem sein.",
       mehrLink: "/nazis",
-      color: "#6FB1F9",
+      color: "#57b2ff",
     },
     {
       src: "/images/Sticker/Kartoffel.png",
@@ -20,7 +20,7 @@ function Home() {
       alt: "Boats (Jeshu John - designerspics.com)",
       textFilePath: "sticker_text/sticker1.txt",
       mehrLink: "/kartoffel",
-      color: "#F6D547"
+      color: "#ffd400"
     },
     {
       src: "/images/Sticker/Filterblase.png",
@@ -29,7 +29,7 @@ function Home() {
       textFilePath: "sticker_text/sticker1.txt",
       teaser: "Die AfD verbreitet in sogenannten Filterblasen ihre Meinung. Was das bedeutet, liest du hier.",
       mehrLink: "/filterblase",
-      color: "#5CA747",
+      color: "#3bab36",
     },
     {
       src: "/images/Sticker/Herzen.png",
@@ -37,7 +37,7 @@ function Home() {
       height: 212,
       textFilePath: "sticker_text/sticker1.txt",
       mehrLink: "/herzen",
-      color: "#387DF6",
+      color: "#0580ff",
       teaser: "Die AfD verwendet häufig Hashtags, Emojis und Codes, die klar der rechtsextremen Szene zugeordnet werden können. Welche das sind.",
     },
     {
@@ -46,16 +46,16 @@ function Home() {
       height: 212,
       textFilePath: "sticker_text/sticker1.txt",
       mehrLink: "/hetze",
-      color: "#ED6FD6",
+      color: "#ff63db",
       teaser: "Die AfD verbreitet gezielt Hass und Hetze im Netz. Was man gegen Hassrede tun kann.",
     },
     {
-      src: "/images/Sticker/Täter.png",
+      src: "/images/Sticker/Taeter.png",
       width: 320,
       height: 212,
       textFilePath: "sticker_text/sticker1.txt",
       mehrLink: "/taeter",
-      color: "#EB5729",
+      color: "#Ff4700",
       teaser: "Die AfD hat viele Feinde und einen starken Zusammenhalt innerhalb ihrer Community. Wie sie das schafft, liest du hier.",
     },
   ];
