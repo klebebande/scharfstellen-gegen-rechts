@@ -11,19 +11,24 @@ const Header = () => {
         <Navbar.Brand href="/" className="brand-container">
           <div>
             <img
-              src={ '/images/Header.svg'}
+              src={'/images/Header.svg'}
               alt="Logo"
               className="brand-logo"
             />
-            
           </div>
         </Navbar.Brand>
         <Navbar.Toggle aria-controls="basic-navbar-nav">
           <BsList /> {/* Hamburger Icon */}
         </Navbar.Toggle>
         <Navbar.Collapse id="basic-navbar-nav">
-          <Nav className="me-auto">
-            <Nav.Link as={Link} to="/about">Info</Nav.Link>
+          <Nav className="ms-auto"> {/* Use ms-auto to push items to the right */}
+            <Nav.Link as={Link} to="/about">
+              <img
+                src={'/images/icons/Info_Button.svg'}
+                alt="Info"
+                className="info-icon"
+              />
+            </Nav.Link>
           </Nav>
         </Navbar.Collapse>
       </Container>

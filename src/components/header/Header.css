@@ -47,3 +47,16 @@
     }
   }
   
+  .brand-logo {
+    height: 40px;
+    /* Add other styles as needed */
+  }
+  
+  .info-icon {
+    height: 15px; /* Adjust the height as needed */
+  }
+  
+  /* Optional: Add hover effect for the icon */
+  .info-icon:hover {
+    opacity: 0.8;
+  }
