@@ -9,7 +9,7 @@ color: #ff63db
 In den letzten Jahren haben aggressive und beleidigende Äußerungen gegen bestimmte Gruppen von Menschen stark zugenommen. Besonders in den sozialen Medien sind rechte Sprache und Bilder sehr verbreitet. 
 Studien zeigen, dass der AfD beim Thema Hasskommentare eine besondere Rolle zukommt: Im Vergleich zu anderen Parteien im Parlament findet sich in ihren Kommentarbereichen auf Facebook oder Instagram mit Abstand am meisten Hassrede. Auch Mitglieder der Partei posten regelmäßig Beiträge, die andere Menschen beleidigen. 
 ![alt text](images/assets/hetzen1.png)
-Hassrede zielt darauf ab, Menschen basierend auf negativen, nichtzutreffenden Merkmalen als eine Gruppe zu definieren und herabzusetzen. Zum Beispiel sieht die AfD alle Muslim_innen als eine Gruppe dar, die gleich aussieht, denkt und handelt. Wenn dann jemand aus der Gruppe eine Straftat begeht, werden gleich alle dafür verantwortlich gemacht. Wird den Kommentaren nichts entgegengesetzt, gelten sie irgendwann als „normal“ – und Worte verwandeln sich in echte Gewalt.
+Hassrede zielt darauf ab, Menschen basierend auf negativen, nichtzutreffenden Merkmalen als eine Gruppe zu definieren und herabzusetzen. Zum Beispiel stellt die AfD alle Muslim_innen als eine Gruppe dar, die gleich aussieht, denkt und handelt. Wenn dann jemand aus der Gruppe eine Straftat begeht, werden gleich alle dafür verantwortlich gemacht. Wird den Kommentaren nichts entgegengesetzt, gelten sie irgendwann als „normal“ – und Worte verwandeln sich in echte Gewalt.
 ![alt text](images/assets/hetzen2.png)
 
 Was wir tun können:
