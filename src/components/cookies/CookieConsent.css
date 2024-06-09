@@ -21,13 +21,13 @@
 }
 
 .cookie-consent-banner a {
-  color: #ffd700;
+  color: #ffd400;
   text-decoration: underline;
   margin-left: 10px;
 }
 
 .cookie-consent-banner button {
-  background-color: #ffd700;
+  background-color: #ffd400;
   color: black;
   border: none;
   padding: 10px 20px;
