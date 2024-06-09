@@ -10,7 +10,9 @@ import SubpageHerzen from "../sticker/Herzen/Herzen";
 import NotFound from "../notFound/NotFound";
 import Header from "../header/Header";
 import About from "../about/About";
+import PrivacyPolicy from '../privacy/PrivacyPolicy';
 import "./App.css";
+import CookieConsent from '../cookies/CookieConsent';
 
 const App = () => {
   useEffect(() => {
@@ -29,7 +31,8 @@ const App = () => {
   return (
     <div className="App">
       <Router>
-        <Header /> 
+        <Header />
+        <CookieConsent />
         <div className="content">
           <Routes>
             <Route path="/" element={<Home />} />
@@ -40,6 +43,7 @@ const App = () => {
             <Route path="/filterblase" element={<SubpageFilterblase />} />
             <Route path="/taeter" element={<SubpageTaeter />} />
             <Route path="/herzen" element={<SubpageHerzen />} />
+            <Route path="/privacy-policy" element={<PrivacyPolicy />} />
             <Route path="*" element={<NotFound />} />
           </Routes>
         </div>

@@ -1,0 +1,39 @@
+/* Ensure the parent container uses flexbox */
+.privacy-policy-container {
+    display: flex;
+    justify-content: center; /* Center content horizontally */
+    align-items: flex-start; /* Align items to the top */
+    min-height: 100vh; /* Ensure the container takes full viewport height */
+    padding: 80px 20px 20px 20px; /* Add top padding to account for the header */
+  }
+  
+  /* Style the privacy policy content */
+  .privacy-policy {
+    max-width: 800px;
+    margin: 0 auto;
+    z-index: 1;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .privacy-policy h1 {
+    font-size: 2em;
+    margin-bottom: 20px;
+  }
+  
+  .privacy-policy h2 {
+    font-size: 1.5em;
+    margin-top: 20px;
+    margin-bottom: 10px;
+  }
+  
+  .privacy-policy p {
+    margin-bottom: 10px;
+  }
+  
+  .privacy-policy ul {
+    list-style-type: disc;
+    margin-left: 20px;
+  }
+  
