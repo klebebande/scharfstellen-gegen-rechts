@@ -20,21 +20,20 @@ Seid vorsichtig und macht eure Mitmenschen auf folgende Bedeutungen aufmerksam:
 - **Messermänner**: Mit diesem Wort wird behauptet, dass männliche Muslime immer mit Messern bewaffnet und gewaltbereit seien. Wie auch das Wort „Kopftuchmädchen“ soll es in der breiten Öffentlichkeit Angst schüren und anti-muslimischen Rassismus ankurbeln.
 
 # Quellen
-1.	Zeit Online. (23. Oktober 2019). AfD: Die Macht der Komposition. https://www.zeit.de/kultur/2019-10/afd-rhetorik-wortschoepfungen-rechtspopulismus-linguistik
-2.	Deutschlandfunk. (21. Januar 2024). Kommunikation der AfD. Provozieren, polarisieren, normalisieren. https://www.deutschlandfunk.de/kommunikationsstrategien-rhetorik-afd-neue-rechte-100.html
-3.	Schreiber, F. (2021). Entwaffnet Sie! Die Strategien von AfD und Co. erkennen und bekämpfen. München: Riva Verlag.
-4.	Pfahl-Traughber, A. (2019). Die AfD und der Rechtsextremismus: Eine Analyse aus politikwissenschaftlicher Perspektive (essentials). Springer VS. Kindle Edition.
 
-5.	Bundeszentrale für politische Bildung (bpb). (2023). Rechtspopulistische Lexik und die Grenzen des Sagbaren. https://www.bpb.de/themen/parteien/rechtspopulismus/240831/rechtspopulistische-lexik-und-die-grenzen-des-sagbaren/
-6.	Katapult Magazin. (11. April 2016). Sprachanalyse: Die Sprache der AfD. https://katapult-magazin.de/de/artikel/die-sprache-der-afd
-7.	Spiegel Online. (17. Mai 2020). Wie die AfD unsere Sprache nach rechts verschiebt. https://www.spiegel.de/politik/deutschland/afd-sprache-wie-gutmensch-fruehsexualisierung-co-wieder-teil-unserer-sprache-werden-a-00000000-0003-0001-0000-000002561315
-8.	Tagesspiegel. (21. Februar 2020). „Gaulands Sprache ist der schlecht verkleidete Jargon von Gangstern“. https://www.tagesspiegel.de/politik/gaulands-sprache-ist-der-schlecht-verkleidete-jargon-von-gangstern-7330918.html
-9.	Deutschlandfunk Kultur. (13. Juli 2019). Literaturwissenschaftler Heinrich Detering: Die rhetorischen Tricks der AfD. https://www.deutschlandfunkkultur.de/literaturwissenschaftler-heinrich-detering-die-rhetorischen-100.html
-10.	FAZ. (6. April 2016). Sprache von Pegida und AfD: Das Wörterbuch der Neuesten Rechten. https://www.faz.net/aktuell/feuilleton/debatten/aus-welchen-woertern-afd-und-pegida-kampfbegriffe-machen-14157466.html
-11.	DISS Duisburg. (28. Dezember 2017). Rechte Provokationsstrategie: Der kalkulierte Tabubruch. https://www.diss-duisburg.de/2017/12/rechte-provokationsstrategie-der-kalkulierte-tabubruch/
+1. [Zeit Online. (23. Oktober 2019). AfD: Die Macht der Komposition.](https://www.zeit.de/kultur/2019-10/afd-rhetorik-wortschoepfungen-rechtspopulismus-linguistik)
+2. [Deutschlandfunk. (21. Januar 2024). Kommunikation der AfD. Provozieren, polarisieren, normalisieren.](https://www.deutschlandfunk.de/kommunikationsstrategien-rhetorik-afd-neue-rechte-100.html)
+3. Schreiber, F. (2021). Entwaffnet Sie! Die Strategien von AfD und Co. erkennen und bekämpfen. München: Riva Verlag.
+4. Pfahl-Traughber, A. (2019). Die AfD und der Rechtsextremismus: Eine Analyse aus politikwissenschaftlicher Perspektive (essentials). Springer VS. Kindle Edition.
+5. [Bundeszentrale für politische Bildung (bpb). (2023). Rechtspopulistische Lexik und die Grenzen des Sagbaren.](https://www.bpb.de/themen/parteien/rechtspopulismus/240831/rechtspopulistische-lexik-und-die-grenzen-des-sagbaren/)
+6. [Katapult Magazin. (11. April 2016). Sprachanalyse: Die Sprache der AfD.](https://katapult-magazin.de/de/artikel/die-sprache-der-afd)
+7. [Spiegel Online. (17. Mai 2020). Wie die AfD unsere Sprache nach rechts verschiebt.](https://www.spiegel.de/politik/deutschland/afd-sprache-wie-gutmensch-fruehsexualisierung-co-wieder-teil-unserer-sprache-werden-a-00000000-0003-0001-0000-000002561315)
+8. [Tagesspiegel. (21. Februar 2020). „Gaulands Sprache ist der schlecht verkleidete Jargon von Gangstern“.](https://www.tagesspiegel.de/politik/gaulands-sprache-ist-der-schlecht-verkleidete-jargon-von-gangstern-7330918.html)
+9. [Deutschlandfunk Kultur. (13. Juli 2019). Literaturwissenschaftler Heinrich Detering: Die rhetorischen Tricks der AfD.](https://www.deutschlandfunkkultur.de/literaturwissenschaftler-heinrich-detering-die-rhetorischen-100.html)
+10. [FAZ. (6. April 2016). Sprache von Pegida und AfD: Das Wörterbuch der Neuesten Rechten.](https://www.faz.net/aktuell/feuilleton/debatten/aus-welchen-woertern-afd-und-pegida-kampfbegriffe-machen-14157466.html)
+11. [DISS Duisburg. (28. Dezember 2017). Rechte Provokationsstrategie: Der kalkulierte Tabubruch.](https://www.diss-duisburg.de/2017/12/rechte-provokationsstrategie-der-kalkulierte-tabubruch/)
 
 **Bilder**
 
-Deutscher Bundestag. (16. Mai 2018). Generalaussprache zur Regierungspolitik - Dr. Alice Weidel (AfD) [Video]. YouTube. https://www.youtube.com/watch?v=Vc8Ra3FmE2Y
-
-AfD-Fraktion Bundestag. (31.01.2020). Land im Klimawahn - Greta, Kobolde und viel Ideologie! - AfD-Fraktion im Bundestag ) [Video]. YouTube. https://www.youtube.com/watch?v=IRHg_0zNmqQ
+1. [Deutscher Bundestag. (16. Mai 2018). Generalaussprache zur Regierungspolitik - Dr. Alice Weidel (AfD) [Video]. YouTube.](https://www.youtube.com/watch?v=Vc8Ra3FmE2Y)
+2. [AfD-Fraktion Bundestag. (31.01.2020). Land im Klimawahn - Greta, Kobolde und viel Ideologie! - AfD-Fraktion im Bundestag [Video]. YouTube.](https://www.youtube.com/watch?v=IRHg_0zNmqQ)

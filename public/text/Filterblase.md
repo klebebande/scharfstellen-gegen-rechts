@@ -23,16 +23,18 @@ Das hat Folgen:
 
 # Quellen
 
-1.	Deutschlandfunk. (21. Januar 2024). Kommunikation der AfD. Provozieren, polarisieren, normalisieren. https://www.deutschlandfunk.de/kommunikationsstrategien-rhetorik-afd-neue-rechte-100.html
-2.	Schreiber, F. (2021). Entwaffnet Sie! Die Strategien von AfD und Co. erkennen und bekämpfen. München: Riva Verlag.
-3.	Hillje, J. (2021). Propaganda 4.0. Wie rechte Populisten unsere Demokratie angreifen. Bonn: Dietz Verlag.
-4.	MDR. (26. Januar 2024). Insider packen aus: So beeinflusst die AfD ihre Anhänger. https://www.mdr.de/nachrichten/deutschland/politik/afd-aussteiger-radikalisierung-rechtsextremistisch-100.html
-5.	Tiktok. (2023). Maximilian Krah. https://www.tiktok.com/@maximilian_krah?lang=de-DE
-6.	Bundeszentrale für politische Bildung (bpb). (2021). Bubble Bubble Filterbubble. https://www.bpb.de/system/files/dokument_pdf/ff_artikel08.pdf
-7.	Deutschlandfunk Kultur. (13. Juli 2019). Literaturwissenschaftler Heinrich Detering: Die rhetorischen Tricks der AfD. https://www.deutschlandfunkkultur.de/literaturwissenschaftler-heinrich-detering-die-rhetorischen-100.html
-8.	Bundeszentrale für politische Bildung (bpb). (2023). Rechtspopulistische Lexik und die Grenzen des Sagbaren. https://www.bpb.de/themen/parteien/rechtspopulismus/240831/rechtspopulistische-lexik-und-die-grenzen-des-sagbaren/
-9.	ZDF. (10. Februar 2024). AfD hängt alle anderen Parteien auf TikTok ab. https://www.zdf.de/nachrichten/politik/deutschland/afd-tiktok-erfolg-strategie-jugendliche-100.html
-10.	Landesmedienzentrum Baden-Württemberg (LMZ). (2020). Filterblasen: Wenn man nur das gezeigt bekommt, was man eh schon kennt. LMZ. https://www.lmz-bw.de/medienbildung/themen-von-f-bis-z/hatespeech-und-fake-news/fake-news/filterblasen-wenn-man-nur-das-gezeigt-bekommt-was-man-eh-schon-kennt
-**Bilder**:
-1. AfD. (23. Februar 2024). MDR-Geheimtreffen mit Verfassungsschutz [Tweet]. X. https://x.com/AfD/status/1760986897055092987?s=20
-2. AfDFraktionimBundestag. (12. Dezember 2023). So missbrauchen Altparteien ihre Macht!  [Video]. TikTok. https://www.tiktok.com/@afdfraktionimbundestag/video/7311651947281403168?is_from_webapp=1&web_id=7333266091646862881
+1. [Deutschlandfunk. (21. Januar 2024). Kommunikation der AfD. Provozieren, polarisieren, normalisieren.](https://www.deutschlandfunk.de/kommunikationsstrategien-rhetorik-afd-neue-rechte-100.html)
+2. Schreiber, F. (2021). Entwaffnet Sie! Die Strategien von AfD und Co. erkennen und bekämpfen. München: Riva Verlag.
+3. Hillje, J. (2021). Propaganda 4.0. Wie rechte Populisten unsere Demokratie angreifen. Bonn: Dietz Verlag.
+4. [MDR. (26. Januar 2024). Insider packen aus: So beeinflusst die AfD ihre Anhänger.](https://www.mdr.de/nachrichten/deutschland/politik/afd-aussteiger-radikalisierung-rechtsextremistisch-100.html)
+5. [Tiktok. (2023). Maximilian Krah.](https://www.tiktok.com/@maximilian_krah?lang=de-DE)
+6. [Bundeszentrale für politische Bildung (bpb). (2021). Bubble Bubble Filterbubble.](https://www.bpb.de/system/files/dokument_pdf/ff_artikel08.pdf)
+7. [Deutschlandfunk Kultur. (13. Juli 2019). Literaturwissenschaftler Heinrich Detering: Die rhetorischen Tricks der AfD.](https://www.deutschlandfunkkultur.de/literaturwissenschaftler-heinrich-detering-die-rhetorischen-100.html)
+8. [Bundeszentrale für politische Bildung (bpb). (2023). Rechtspopulistische Lexik und die Grenzen des Sagbaren.](https://www.bpb.de/themen/parteien/rechtspopulismus/240831/rechtspopulistische-lexik-und-die-grenzen-des-sagbaren/)
+9. [ZDF. (10. Februar 2024). AfD hängt alle anderen Parteien auf TikTok ab.](https://www.zdf.de/nachrichten/politik/deutschland/afd-tiktok-erfolg-strategie-jugendliche-100.html)
+10. [Landesmedienzentrum Baden-Württemberg (LMZ). (2020). Filterblasen: Wenn man nur das gezeigt bekommt, was man eh schon kennt. LMZ.](https://www.lmz-bw.de/medienbildung/themen-von-f-bis-z/hatespeech-und-fake-news/fake-news/filterblasen-wenn-man-nur-das-gezeigt-bekommt-was-man-eh-schon-kennt)
+
+**Bilder**
+
+1. [AfD. (23. Februar 2024). MDR-Geheimtreffen mit Verfassungsschutz [Tweet]. X.](https://x.com/AfD/status/1760986897055092987?s=20)
+2. [AfDFraktionimBundestag. (12. Dezember 2023). So missbrauchen Altparteien ihre Macht!  [Video]. TikTok.](https://www.tiktok.com/@afdfraktionimbundestag/video/7311651947281403168?is_from_webapp=1&web_id=7333266091646862881)
