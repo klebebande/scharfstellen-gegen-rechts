@@ -17,10 +17,15 @@ Vermeintlich harmlose Symbole wie das blaue Herz dienen dazu, rechtsextreme und 
 
 
 - **#defendeurope** oder **#defendeuropa**: Ein Hashtag, der vor allem von Aktivisten der Identitären Bewegung verwendet wird. 2017 hatten sie während einer Aktion mit demselben Namen NGOs daran gehindert, Geflüchtete aus dem Mittelmeer zu retten.
+
 - **Emojis in den Farben Schwarz, Weiß und Rot** (Punkte oder Herzen): Steht für die Flagge des Deutschen Reichs, besonders beliebt bei deutschen Rechtsextremen.
+
 - **Runen**: Dienen als alte Schriftzeichen der Germanen oder Wikinger, charakteristisch für die rechte und rechtsextreme Szene.
+
 - **Adler**: Verbindung mit germanischer Mythologie und der Zeit des Nationalsozialismus, oft verwendet von Holocaustleugnern und Antisemiten.
+
 - **Vampir-Emoji**: antisemitischer Stereotyp.
+
 - **Bier- und Brezel-Emojis**: Symbolisieren deutsche Traditionen, oft in Verbindung mit Angaben wie „deutsch“ und „patriotisch“ verwendet.
 
 # Quellen
