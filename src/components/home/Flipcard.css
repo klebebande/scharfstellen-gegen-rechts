@@ -1,19 +1,22 @@
+:root {
+    --card-width: 242px; /* 15% larger width */
+    --card-height: 343px; /* 15% larger height */
+    --card-ratio: calc(var(--card-height) / var(--card-width) * 100%);
+}
 
 .flip-card {
     perspective: 1000px;
-    width: 210px; /* Full width on all screens */
-    height: 298px; /* Full height on all screens */
+    width: var(--card-width);
     margin: 10px; /* space around the cards */
-    /* Maintain aspect ratio */
     height: 0;
-    padding-bottom: calc(298 / 210 * 100%); /* height/width * 100% */
+    padding-bottom: var(--card-ratio); /* Maintain aspect ratio */
 }
 
 .flip-card-inner {
     position: absolute;
     top: 0;
     width: 100%;
-    height: 100%; /* Set height to 100% of the parent */
+    height: 100%;
     text-align: center;
     transition: transform 0.6s;
     transform-style: preserve-3d;
@@ -40,7 +43,6 @@
 
 .flip-card-front img {
     width: 100%;
-    height: 100%;
     height: auto;
     object-fit: cover;
 }
@@ -57,39 +59,29 @@
 
 @media screen and (min-width: 769px) {
     .flip-card {
-        /* Set a max-height to cap the height of the cards */
-        height: 298px;
-        max-height: 298px; /* Fixed height for larger screens to prevent too much padding */
-        max-width: 210px;
-        padding-bottom: 100px;
+        height: var(--card-height);
+        max-height: var(--card-height);
+        max-width: var(--card-width);
     }
 
     .flip-card-inner {
-        /* Since we have a max-height on the container now, we can set height to 100% */
         height: 100%;
-        padding-top: 0; /* Remove padding-top since we're controlling height with max-height */
+        padding-top: 0;
     }
 }
 
-/* Responsive behavior */
 @media screen and (max-width: 768px) {
     .flip-card {
-        /* Set a max-height to cap the height of the cards */
-        height: 298px;
-        max-height: 298px;
-        padding-bottom: 100px;
-        /* max-width: 400px; */
-        /* padding-bottom: 212px; */
+        height: var(--card-height);
+        max-height: var(--card-height);
     }
+
     .flip-card-inner {
-        /* Since we have a max-height on the container now, we can set height to 100% */
         height: 100%;
-        max-height: 298px;
+        max-height: var(--card-height);
         padding-top: 0;
-        /* padding-top: 0; Remove padding-top since we're controlling height with max-height */
     }
 }
-
 
 .mehr-button {
     background-color: black; /* Blue background */
@@ -104,18 +96,18 @@
     cursor: pointer; /* Pointer/hand icon */
     border-radius: 4px; /* Rounded corners */
     transition-duration: 0.4s; /* Animation duration */
-  }
-  
-  .mehr-button:hover {
+}
+
+.mehr-button:hover {
     background-color: white; /* Background color on hover */
     color: black; /* Text color on hover */
-  }
-  
-  .mehr-button a {
+}
+
+.mehr-button a {
     color: inherit; /* Ensure link text inherits color from button */
     text-decoration: none; /* Remove underline from link */
-  }
-  
-  .mehr-button a:hover {
+}
+
+.mehr-button a:hover {
     color: inherit; /* Ensure link text color changes with button on hover */
-  }
+}

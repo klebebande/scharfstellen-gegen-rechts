@@ -19,7 +19,7 @@ const FlipCard = ({ image, style }) => {
           <div className="flip-card-content">
             <p>{image.teaser}</p>
             <Link to={image.mehrLink} className="mehr-button">
-              Find's heraus!
+              Klick mich!
             </Link>
           </div>
         </div>

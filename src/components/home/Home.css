@@ -39,10 +39,19 @@ main {
   object-fit: cover; /* Cover the area, maintain aspect ratio, could crop */
 }
 
+/* Adjust the margin for the second row to create an overlap effect */
+.gallery-item:nth-child(n+4):nth-child(-n+6) {
+  margin-top: -1000px; /* Adjust the value as needed for the desired overlap */
+}
+
 /* Responsive settings for smaller devices */
 @media screen and (max-width: 600px) {
   .gallery-item {
     flex: 1 1 calc(50% - 10px); /* Two items per row on smaller screens */
     max-width: calc(50% - 10px); /* Maximum width of each gallery item */
+  }
+
+  .gallery-item:nth-child(n+3):nth-child(-n+4) {
+    margin-top: -20px; /* Adjust for the second row on smaller screens */
   }
 }
